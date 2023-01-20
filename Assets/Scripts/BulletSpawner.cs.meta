@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 34222a0a52e6f63429e318d944d80acb
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Enemy: {fileID: 100000, guid: e0cc026530bd3ed49b0ff5d15d41ba8c, type: 2}
+  - BulletPrefab: {fileID: 100000, guid: 6c9da3831730342498b161009035a6f8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
